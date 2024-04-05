@@ -1,10 +1,9 @@
-# java-baby-step
+# java-baby-steps
 
-Repositório para armazenar arquivos de um curso de java, não há nenhum segredo aqui.
+Repositório para armazenar arquivos de um curso de java, não há nenhum segredo aqui. =)
 
 ### Tarefas pendentes ###
 
-- Adicionar o link do curso.
+- Link do curso;
 
-=)
-
+https://www.linuxtips.io/course/agile-essentials
