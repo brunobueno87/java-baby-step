@@ -1,8 +1,6 @@
 # java-baby-steps
 
-Repositório para armazenar arquivos de um curso de java, não há nenhum segredo aqui. =)
-
-### Tarefas pendentes ###
+Repositório para armazenar arquivos de exemplo de um curso de java, não há nenhum segredo aqui. =)
 
 - Link do curso;
 
